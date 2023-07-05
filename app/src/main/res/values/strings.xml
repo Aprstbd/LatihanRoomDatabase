@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">native</string>
+    <string name="roll_label"> Coba</string>
+    <string name="hitung"> Hitung</string>
+    <string name="input1">masukan text...</string>
+    <string name="buttoninput1">Tampilkan</string>
+</resources>
